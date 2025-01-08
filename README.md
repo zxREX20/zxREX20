@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zxREX20
+- 👋 Hi, I’m xi zhang
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning control principle
 - 💞️ I’m looking to collaborate on ...
